@@ -39,13 +39,13 @@ main()
   gray='#454158'
   dark_gray='#22212C'
   light_purple='#9580FF'
-  dark_purple='#7970A9'
+  dark_purple='#282828'
   cyan='#80FFEA'
-  green='#8AFF80'
-  orange='#FFCA80'
-  red='#FF9580'
-  pink='#FF80BF'
-  yellow='#FFFF80'
+  green='#a6e3a1'
+  orange='#fab386'
+  red='#eba0ac'
+  pink='#f5c2e7'
+  yellow='#f9e2af'
 
   # Handle left icon configuration
   case $show_left_icon in
